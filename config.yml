@@ -99,7 +99,7 @@ content:
           description: 在线正则
           url: https://regex101.com/
 
-    - name: 安全资讯
+    - name: 安全资讯、技术学习
       sites:
         - name: 安全客
           description: 安全资讯平台
@@ -107,3 +107,19 @@ content:
         - name: freebuf
           description: 网络安全门户
           url: https://www.freebuf.com/
+        - name: Seebug
+          description: Paper - 安全技术精粹
+          url: https://paper.seebug.org/category/web-security/
+        - name: 安全牛
+          description: 安全牛学习平台
+          url: https://www.aqniu.com/
+        - name: 红客
+          description: 红客ctf
+          url: https://www.hong.ke/news/ctf
+        - name: 先知社区
+          description: 先知社区
+          url: https://xz.aliyun.com/
+        - name: F12sec
+          description: F12sec
+          url: http://www.0dayhack.net/
+
