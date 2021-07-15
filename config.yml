@@ -1,5 +1,5 @@
 # title of website
-title: webstack
+title: Cc导航
 
 # description of website
 description: cclss's navigation site
@@ -8,7 +8,7 @@ description: cclss's navigation site
 favicon: "https://github.com/cclss.png?size=40"
 
 # your website url
-url: https://cclss.github.io/webstack/
+url: https://www.cclss.cn/
 
 # github profile url
 github: "https://github.com/cclss"
@@ -25,11 +25,11 @@ google_analytics: "G-EXE1PJ8CR2"
 
 content:
   categories:
-    - name: 常用推荐
+    - name: CTF刷题
       sites:
-        - name: Dribbble
-          description: 全球UI设计师作品分享平台。
-          url: https://dribbble.com/
+        - name: BUUCTF
+          description: CTF 训练平台,拥有全网数量最庞大的 CTF 题库
+          url: https://buuoj.cn/
         - name: Behance
           description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
           url: https://behance.net/
