@@ -30,50 +30,67 @@ content:
         - name: BUUCTF
           description: CTF 训练平台,拥有全网数量最庞大的 CTF 题库
           url: https://buuoj.cn/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
-    - name: 界面灵感
+        - name: 攻防世界
+          description: Xctf刷题
+          url: https://adworld.xctf.org.cn/
+        - name: CTFHUB
+          description: 专注网络安全、信息安全、白帽子技术的在线学习
+          url: https://www.ctfhub.com/
+        - name: CTF-TIME
+          description: Capture The Flag, CTF teams, CTF ratings, CTF archive, CTF writeups
+          url: https://ctftime.org/
+        - name: BUGKU
+          description: 刷题支持awd
+          url: https://ctf.bugku.com/
+        - name: CTF-SHOW
+          description: 新手入门CTF的好地方
+          url: https://ctf.show/
+        - name: 墨者学院
+          description:  专注于网络安全人才培养
+          url: https://www.mozhe.cn/
+        - name: Jarvis OJ
+          description:   Jarvis OJ is a CTF training platform developed by Jarvis from USSLab in ZJU. 
+          url: https://www.jarvisoj.com/
+        - name: 白帽子ctf
+          description: 普通刷题
+          url: http://bmzclub.cn/
+        - name: hackme
+          description: 国外
+          url: https://hack.me/
+        - name: DEFCON
+          description: The largest hacking and security conference with presentations
+          url: https://defcon.org/
+    - name: TOOLS
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
+        - name: CIP
+          description: 获取你的ip
+          url: http://cip.cc/
+        - name: XSS
+          description: XSS
+          url: https://xss8.cc/login/
+        - name: md5
+          description: cmd5
+          url: https://www.cmd5.com/
+        - name: somd5
+          description: somd5
+          url: https://www.somd5.com/
+        - name: china md5
+          description: china md5
+          url: http://www.chamd5.org/
+        - name: jsfuck
+          description: jsfuck 解密
+          url: http://www.jsfuck.com/
+        - name: jwt
+          description: jwt
+          url: https://jwt.io/
+        - name: unicode
+          description: unicode
+          url: https://www.compart.com/en/unicode/
+        - name: Brainfuck
+          description: Brainfuck
+          url: http://bf.doleczek.pl/
+
+
     - name: 社区资讯
       sites:
         - name: 雷锋网
