@@ -98,6 +98,9 @@ content:
         - name: 正则
           description: 在线正则
           url: https://regex101.com/
+        - name: unicode-converter
+          description: unicode
+          url: https://www.branah.com/unicode-converter
 
     - name: 安全资讯、技术学习
       sites:
@@ -122,4 +125,8 @@ content:
         - name: F12sec
           description: F12sec
           url: http://www.0dayhack.net/
+        - name: 吾爱破解
+          description: re
+          url: https://www.52pojie.cn/
+
 
