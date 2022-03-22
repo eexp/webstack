@@ -66,8 +66,8 @@ content:
     - name: WIKE
       sites:
         - name: ctfwiki
-        description: ctf 各种知识
-        url: https://ctf-wiki.org/
+          description: ctf 各种知识
+          url: https://ctf-wiki.org/
         - name: susctf_wiki
           description: 四川大学网络空间wiki
           url: https://www.scuctf.com/
