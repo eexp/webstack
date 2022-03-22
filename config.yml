@@ -60,6 +60,20 @@ content:
         - name: DEFCON
           description: The largest hacking and security conference with presentations
           url: https://defcon.org/
+        - name: PWNthebox
+          description: Hacking Platform - CTF Platform
+          url: https://ce.pwnthebox.com/
+    - name: WIKE
+      sites:
+        - name: ctfwiki
+        description: ctf 各种知识
+        url: https://ctf-wiki.org/
+        - name: susctf_wiki
+          description: 四川大学网络空间wiki
+          url: https://www.scuctf.com/
+        - name: 狼组文库
+          description: 包含渗透以及各种
+          url: https://wiki.wgpsec.org/knowledge/
     - name: TOOLS
       sites:
         - name: cyberbake
