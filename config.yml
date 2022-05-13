@@ -152,5 +152,8 @@ content:
         - name: 吾爱破解
           description: re
           url: https://www.52pojie.cn/
+        - name: Sec-News
+          description: 各种ctf writeup 收录了各种出题人的文章
+          url: https://wiki.ioin.in/sort/ctf/page-1
 
 
