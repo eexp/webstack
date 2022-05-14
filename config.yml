@@ -8,13 +8,13 @@ description: cclss's navigation site
 favicon: "https://github.com/cclss.png?size=40"
 
 # your website url
-url: https://www.cclss.cn/
+url: https://www.cclss.top/
 
 # github profile url
 github: "https://github.com/cclss"
 
 # footer message
-footer: © 2021-2021 @cclss
+footer: © 2021-2022 @cclss
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -76,7 +76,7 @@ content:
           url: https://wiki.wgpsec.org/knowledge/
     - name: TOOLS
       sites:
-        - name: cyberbake
+        - name: cyberchef
           description: 解密无敌工具
           url: https://pw.cclss.top/
         - name: CIP
@@ -124,7 +124,17 @@ content:
         - name: zoomeye
           description: 钟馗之眼
           url: https://www.zoomeye.org/
-
+    - name: 病毒分析 风险测试
+      sites:
+        - name: VirusTotal
+          description: 提供免费的可疑文件分析服务的网站
+          url: https://www.virustotal.com
+        - name: 腾讯哈勃
+          description: “哈勃分析系统”,是“腾讯反病毒实验室”自主研发的安全辅助平台
+          url: https://habo.qq.com/
+        - name: VirScan
+          description: 多引擎在线病毒扫描网
+          url: https://www.virscan.org/
 
     - name: 安全资讯、技术学习
       sites:
