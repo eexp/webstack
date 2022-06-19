@@ -36,6 +36,9 @@ content:
         - name: CTFHUB
           description: 专注网络安全、信息安全、白帽子技术的在线学习
           url: https://www.ctfhub.com/
+        - name: NSSCTF
+          description: xenny大神良心制作可以复现最近比赛题
+          url: https://www.ctfer.vip/
         - name: CTF-TIME
           description: Capture The Flag, CTF teams, CTF ratings, CTF archive, CTF writeups
           url: https://ctftime.org/
@@ -85,7 +88,25 @@ content:
         - name: XSS
           description: XSS
           url: https://xss8.cc/login/
-        - name: md5
+        - name:  Explain Shell
+          description:  Shell命令解析
+          url: https://explainshell.com/
+        - name:  Ceye DNS
+          description:  DNS oob平台
+          url: http://ceye.io/
+        - name: DNS log
+          description: DNS oob平台
+          url: http://dnslog.cn/
+        - name: XSS Chop
+          description: XSS Chop
+          url: https://xsschop.chaitin.cn/demo/
+        - name: CTF在线工具
+          description: CTF在线工具
+          url: http://www.hiencode.com/
+        - name: java命令执行转换
+          description: java命令执行转换
+          url: https://x.hacking8.com/java-runtime.html
+        - name: cmd5
           description: cmd5
           url: https://www.cmd5.com/
         - name: somd5
@@ -115,6 +136,9 @@ content:
         - name: unicode-converter
           description: unicode
           url: https://www.branah.com/unicode-converter
+        
+    - name: 网络空间搜索
+      sites:
         - name: shodan
           description: Shodan provides a comprehensive view of all exposed services to help you stay secure
           url: https://www.shodan.io/
@@ -124,6 +148,12 @@ content:
         - name: zoomeye
           description: 钟馗之眼
           url: https://www.zoomeye.org/
+        - name: 谛听
+          description: 谛听
+          url: https://www.ditecting.com/
+        - name: 360网络空间测绘
+          description: 360网络空间测绘
+          url: https://quake.360.cn/quake/#/index
     - name: 病毒分析 风险测试
       sites:
         - name: VirusTotal
