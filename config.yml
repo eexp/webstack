@@ -165,6 +165,23 @@ content:
         - name: VirScan
           description: 多引擎在线病毒扫描网
           url: https://www.virscan.org/
+    - name: 漏洞查询  CVE
+      sites:
+        - name: 阿里云漏洞库
+          description: 阿里云漏洞库
+          url: https://avd.aliyun.com/nvd/list
+        - name: tenable漏洞库(nessus)
+          description: nessus
+          url: https://www.tenable.com/cve/search
+        - name: cve
+          description: cve
+          url: https://cve.mitre.org/cve/search_cve_list.html
+        - name: nvd
+          description: nvd
+          url: https://nvd.nist.gov/vuln/search
+        - name: accenture
+          description: acc
+          url: https://bugtraq.securityfocus.com/archive
 
     - name: 安全资讯、技术学习
       sites:
