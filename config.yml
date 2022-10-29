@@ -97,6 +97,9 @@ content:
         - name: DNS log
           description: DNS oob平台
           url: http://dnslog.cn/
+        - name: DNSlog Dig.pm
+          description: 比dnslog.cn好用
+          url: https://dig.pm/
         - name: XSS Chop
           description: XSS Chop
           url: https://xsschop.chaitin.cn/demo/
@@ -118,6 +121,9 @@ content:
         - name: jsfuck
           description: jsfuck 解密
           url: http://www.jsfuck.com/
+        - name: AES
+          description: aes 在线解密
+          url: http://aes.online-domain-tools.com/
         - name: jwt
           description: jwt
           url: https://jwt.io/
@@ -136,6 +142,9 @@ content:
         - name: unicode-converter
           description: unicode
           url: https://www.branah.com/unicode-converter
+        - name: 子域名爆破
+          description: 子域名在线爆破
+          url: https://phpinfo.me/domain/
         
     - name: 网络空间搜索
       sites:
@@ -182,6 +191,9 @@ content:
         - name: accenture
           description: acc
           url: https://bugtraq.securityfocus.com/archive
+        - name: php 漏洞查询
+          description: php 漏洞查询
+          url: https://bugs.php.net/
 
     - name: 安全资讯、技术学习
       sites:
@@ -212,5 +224,17 @@ content:
         - name: Sec-News
           description: 各种ctf writeup 收录了各种出题人的文章
           url: https://wiki.ioin.in/sort/ctf/page-1
+    - name: Other
+      sites:
+        - name: zlib
+          description: zlib 各种电子书pdf下载
+          url: https://zlib.pro/
+        - name: 字典
+          description: 字典下载
+          url: https://weakpass.com/
+        - name: 命令安装
+          description: 可以快速列出在不通平台安装所需命令
+          url: https://command-not-found.com/
+        
 
 
