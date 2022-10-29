@@ -145,6 +145,9 @@ content:
         - name: 子域名爆破
           description: 子域名在线爆破
           url: https://phpinfo.me/domain/
+        - name: suid提权
+          description: suid提权
+          url: https://gtfobins.github.io/
         
     - name: 网络空间搜索
       sites:
