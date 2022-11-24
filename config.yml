@@ -77,6 +77,15 @@ content:
         - name: 狼组文库
           description: 包含渗透以及各种
           url: https://wiki.wgpsec.org/knowledge/
+        - name: Docker
+          description: Docker-从入门到实践
+          url: https://yeasy.gitbook.io/docker_practice/
+        - name: 渗透
+          description: 属于某个大佬自己完善的知识库
+          url: https://blog.gm7.org/
+        - name: PHP代码审计入门指南
+          description: PHP代码审计入门指南
+          url: https://www.yuque.com/burpheart/phpaudit/
     - name: TOOLS
       sites:
         - name: cyberchef
@@ -100,6 +109,9 @@ content:
         - name: DNSlog Dig.pm
           description: 比dnslog.cn好用
           url: https://dig.pm/
+        - name: RequestBin
+          description: 获取request请求
+          url: https://requestbin.io/
         - name: XSS Chop
           description: XSS Chop
           url: https://xsschop.chaitin.cn/demo/
@@ -156,7 +168,7 @@ content:
           url: https://www.shodan.io/
         - name: Fofa
           description: FOFA 是白帽汇推出的一款网络空间搜索引擎
-          url: https://fofa.so/
+          url: https://fofa.info/
         - name: zoomeye
           description: 钟馗之眼
           url: https://www.zoomeye.org/
