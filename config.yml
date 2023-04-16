@@ -66,6 +66,9 @@ content:
         - name: PWNthebox
           description: Hacking Platform - CTF Platform
           url: https://ce.pwnthebox.com/
+        - name: Vulfocus
+          description: 漏洞复现 
+          url: https://vulfocus.cn/
     - name: WIKE
       sites:
         - name: ctfwiki
@@ -86,6 +89,12 @@ content:
         - name: PHP代码审计入门指南
           description: PHP代码审计入门指南
           url: https://www.yuque.com/burpheart/phpaudit/
+        - name: HackTricks
+          description: 国际平台 各种知识 还能学英语
+          url: https://book.hacktricks.xyz/
+         - name: 图解系列
+          description: 图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！
+          url: https://xiaolincoding.com/
     - name: TOOLS
       sites:
         - name: cyberchef
@@ -160,6 +169,9 @@ content:
         - name: suid提权
           description: suid提权
           url: https://gtfobins.github.io/
+        - name: crt
+          description: 域名历史解析
+          url: https://crt.sh/
         
     - name: 网络空间搜索
       sites:
@@ -250,6 +262,9 @@ content:
         - name: 命令安装
           description: 可以快速列出在不通平台安装所需命令
           url: https://command-not-found.com/
+        - name: PHP static code analysis
+          description: 静态规则匹配
+          url: https://rules.sonarsource.com/php
         
 
 
