@@ -92,7 +92,7 @@ content:
         - name: HackTricks
           description: 国际平台 各种知识 还能学英语
           url: https://book.hacktricks.xyz/
-         - name: 图解系列
+        - name: 图解系列
           description: 图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！
           url: https://xiaolincoding.com/
     - name: TOOLS
@@ -264,7 +264,7 @@ content:
           url: https://command-not-found.com/
         - name: PHP static code analysis
           description: 静态规则匹配
-          url: https://rules.sonarsource.com/php
+          url: https://rules.sonarsource.com/php/
         
 
 
