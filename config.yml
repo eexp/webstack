@@ -14,7 +14,7 @@ url: https://www.cclss.top/
 github: "https://github.com/cclss"
 
 # footer message
-footer: © 2021-2022 @cclss
+footer: © 2021-2024 @cclss
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -38,7 +38,7 @@ content:
           url: https://www.ctfhub.com/
         - name: NSSCTF
           description: xenny大神良心制作可以复现最近比赛题
-          url: https://www.ctfer.vip/
+          url: https://www.nssctf.cn/
         - name: CTF-TIME
           description: Capture The Flag, CTF teams, CTF ratings, CTF archive, CTF writeups
           url: https://ctftime.org/
@@ -112,6 +112,9 @@ content:
         - name:  Ceye DNS
           description:  DNS oob平台
           url: http://ceye.io/
+        - name:  pw DNS
+          description:  强烈推荐 DNS 平台
+          url: http://dnslog.pw/
         - name: DNS log
           description: DNS oob平台
           url: http://dnslog.cn/
@@ -172,6 +175,12 @@ content:
         - name: crt
           description: 域名历史解析
           url: https://crt.sh/
+        - name: 多地测速
+          description:  多地测速，测试dns,http等访问速度
+          url: https://zhale.me/
+        - name: 反弹shell
+          description:  快速生成各种反弹shell
+          url: https://www.revshells.com/
         
     - name: 网络空间搜索
       sites:
@@ -229,6 +238,17 @@ content:
           url: https://bugs.php.net/
 
     - name: 安全资讯、技术学习
+    - name: 国外技术文章学习
+      sites:
+        - name: hackone hacktivity
+          description: hackone 公开历史挖掘
+          url: https://hackerone.com/hacktivity/overview/
+        - name: huntr
+          description: huntr cve 挖掘公开
+          url: https://huntr.com/bounties/
+        - name: 0x00sec
+          description: 0x00sec
+          url: https://0x00sec.org/
       sites:
         - name: 安全客
           description: 安全资讯平台
@@ -262,6 +282,13 @@ content:
         - name: zlib
           description: zlib 各种电子书pdf下载
           url: https://zlib.pro/
+        - name: zlib 海外官网
+          description: zlib 各种电子书pdf下载
+          url: https://zh.zlibrary-global.se/
+        - name: 自建 ai
+          description: 转发 gpt 4 turbo 等
+          url: https://ai.eexp.top/
+          
         - name: 字典
           description: 字典下载
           url: https://weakpass.com/
