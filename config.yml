@@ -176,7 +176,7 @@ content:
           description: 域名历史解析
           url: https://crt.sh/
         - name: 多地测速
-          description:  多地测速，测试dns,http等访问速度
+          description:  多地测速,测试dns,http等访问速度
           url: https://zhale.me/
         - name: 反弹shell
           description:  快速生成各种反弹shell
