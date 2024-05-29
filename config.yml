@@ -237,7 +237,6 @@ content:
           description: php 漏洞查询
           url: https://bugs.php.net/
 
-    - name: 安全资讯、技术学习
     - name: 国外技术文章学习
       sites:
         - name: hackone hacktivity
@@ -249,6 +248,7 @@ content:
         - name: 0x00sec
           description: 0x00sec
           url: https://0x00sec.org/
+    - name: 安全资讯、技术学习
       sites:
         - name: 安全客
           description: 安全资讯平台
