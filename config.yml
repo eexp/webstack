@@ -277,6 +277,23 @@ content:
         - name: Sec-News
           description: 各种ctf writeup 收录了各种出题人的文章
           url: https://wiki.ioin.in/sort/ctf/page-1
+    - name: AI
+      sites:
+        - name: deepseek
+          description: deepseek 
+          url: https://chat.deepseek.com/
+        - name: 月之暗面
+          description: 月之暗面
+          url: https://www.moonshot.cn/
+        - name: 通义千问
+          description: 通义千问
+          url: https://tongyi.aliyun.com/
+        - name: huggingface
+          description: huggingface 排行榜
+          url: https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard/
+        - name: napkin
+          description: AI画流程图
+          url: https://app.napkin.ai/
     - name: Other
       sites:
         - name: zlib
